@@ -55,7 +55,7 @@
     "react-copy-to-clipboard": "5.1.0",
     "react-dom": "19.1.0",
     "react-instantsearch": "^7.15.8",
-    "react-lite-youtube-embed": "^2.5.1",
+    "react-lite-youtube-embed": "^2.5.6",
     "react-transition-group": "^4.4.5",
     "redocusaurus": "^2.5.0",
     "rehype-github-alerts": "^4.1.1",
