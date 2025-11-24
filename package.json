@@ -53,7 +53,7 @@
     "prismjs": "1.30.0",
     "react": "19.1.0",
     "react-copy-to-clipboard": "5.1.0",
-    "react-dom": "19.1.0",
+    "react-dom": "19.2.0",
     "react-instantsearch": "^7.15.8",
     "react-lite-youtube-embed": "^2.5.1",
     "react-transition-group": "^4.4.5",
